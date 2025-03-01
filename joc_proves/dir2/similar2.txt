@@ -1,0 +1,5 @@
+Línia 1 - Igual
+Línia 2 - Igual
+Línia 3 - Igual
+Línia 4 - Només a l'arxiu 2
+Línia 5 - Igual

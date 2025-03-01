@@ -4,7 +4,16 @@
 
 # Netegem els directoris anterios, si ja existeixen.
 # Es fa recuersivament per eliminar subdirectoris.
-rm -rf ../joc_proves dir1 dir2
+rm -rf ../joc_proves dir1 dir
+
+# Creem el directori base per al joc de proves
+mkdir -p ../joc_proves
+
+# Creem l'estructura de directoris dins de joc_proves
+mkdir -p ../joc_proves/dir1/subdir
+mkdir -p ../joc_proves/dir2/subdir
+mkdir -p ../joc_proves/dir1/ignorar
+mkdir -p ../joc_proves/dir2/ignorar2
 
 # Creem els directoris dins de joc_proves
 mkdir -p ../joc_proves/dir1/subdir
