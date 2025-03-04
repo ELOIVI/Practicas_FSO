@@ -3,7 +3,7 @@
 # Script per crear un joc de proves.
 
 # Netegem els directoris anterios, si ja existeixen.
-# Es fa recuersivament per eliminar subdirectoris.
+# Es fa recursivament per eliminar subdirectoris.
 rm -rf "$BASE_DIR/joc_proves" 
 
 # Creem el directori base per al joc de proves

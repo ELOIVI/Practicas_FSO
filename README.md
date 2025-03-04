@@ -108,6 +108,9 @@ chmod +x scripts/comparador.sh
 ./scripts/comparador.sh -r -d -p -e tmp,bak -o resultats_complets.txt joc_proves/dir1 joc_proves/dir2
 ```
 
+# Comanda per executar versió actual del script (Funcionalitats 1,2 i 3)
+/scriptInicial.sh -i -s 90 -e ".tmp,.bak" -d ignorar ../joc_proves/dir1 ../joc_proves/dir2
+
 ## Autors
 
 [Álvaro Pérez Caballer i Eloi Viciana Gómez]
