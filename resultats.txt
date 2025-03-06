@@ -1,0 +1,36 @@
+
+Fitxers només a joc_proves/dir1:
+  - diferent1.txt
+  - similar1.txt
+
+Fitxers només a joc_proves/dir2:
+  - diferent2.txt
+  - similar2.txt
+
+Fitxer diferent: mateix_nom.txt
+----- Diferències (joc_proves/dir1/mateix_nom.txt) vs (joc_proves/dir2/mateix_nom.txt) -----
+--- joc_proves/dir1/mateix_nom.txt	2025-03-06 00:42:08.938542327 +0100
++++ joc_proves/dir2/mateix_nom.txt	2025-03-06 00:42:08.938542327 +0100
+@@ -1 +1 @@
+-Contingut al directori 1
++Contingut al directori 2
+
+Fitxer diferent: similar_90.txt
+----- Diferències (joc_proves/dir1/similar_90.txt) vs (joc_proves/dir2/similar_90.txt) -----
+--- joc_proves/dir1/similar_90.txt	2025-03-06 00:42:08.938542327 +0100
++++ joc_proves/dir2/similar_90.txt	2025-03-06 00:42:08.938542327 +0100
+@@ -7,4 +7,4 @@
+Línia 7
+Línia 8
+Línia 9
+-Línia 10 - Diferent
++Línia 10 - Diferent a dir2
+
+Comparació de similitud entre tots els fitxers (>= 90%):
+El fitxer "/home/milax/FSO/P1/joc_proves/dir1/permisos.txt" té una similitud del 100.00% amb "/home/milax/FSO/P1/joc_proves/dir2/permisos.txt"
+El fitxer "/home/milax/FSO/P1/joc_proves/dir1/igual1.txt" té una similitud del 100.00% amb "/home/milax/FSO/P1/joc_proves/dir2/igual1.txt"
+El fitxer "/home/milax/FSO/P1/joc_proves/dir1/executable.txt" té una similitud del 100.00% amb "/home/milax/FSO/P1/joc_proves/dir2/executable.txt"
+El fitxer "/home/milax/FSO/P1/joc_proves/dir1/fitxer_gran.txt" té una similitud del 100.00% amb "/home/milax/FSO/P1/joc_proves/dir2/fitxer_gran.txt"
+El fitxer "/home/milax/FSO/P1/joc_proves/dir1/igual2.txt" té una similitud del 100.00% amb "/home/milax/FSO/P1/joc_proves/dir2/igual2.txt"
+El fitxer "/home/milax/FSO/P1/joc_proves/dir1/backup.bak" té una similitud del 100.00% amb "/home/milax/FSO/P1/joc_proves/dir2/backup.bak"
+El fitxer "/home/milax/FSO/P1/joc_proves/dir1/temporal.tmp" té una similitud del 100.00% amb "/home/milax/FSO/P1/joc_proves/dir2/temporal.tmp"
