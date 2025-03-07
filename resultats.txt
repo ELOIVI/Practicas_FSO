@@ -9,16 +9,16 @@ Fitxers només a joc_proves/dir2:
 
 Fitxer diferent: mateix_nom.txt
 ----- Diferències (joc_proves/dir1/mateix_nom.txt) vs (joc_proves/dir2/mateix_nom.txt) -----
---- joc_proves/dir1/mateix_nom.txt	2025-03-06 00:42:08.938542327 +0100
-+++ joc_proves/dir2/mateix_nom.txt	2025-03-06 00:42:08.938542327 +0100
+--- joc_proves/dir1/mateix_nom.txt	2025-03-06 19:16:37.522160851 +0100
++++ joc_proves/dir2/mateix_nom.txt	2025-03-06 19:16:37.522160851 +0100
 @@ -1 +1 @@
 -Contingut al directori 1
 +Contingut al directori 2
 
 Fitxer diferent: similar_90.txt
 ----- Diferències (joc_proves/dir1/similar_90.txt) vs (joc_proves/dir2/similar_90.txt) -----
---- joc_proves/dir1/similar_90.txt	2025-03-06 00:42:08.938542327 +0100
-+++ joc_proves/dir2/similar_90.txt	2025-03-06 00:42:08.938542327 +0100
+--- joc_proves/dir1/similar_90.txt	2025-03-06 19:16:37.522160851 +0100
++++ joc_proves/dir2/similar_90.txt	2025-03-06 19:16:37.522160851 +0100
 @@ -7,4 +7,4 @@
 Línia 7
 Línia 8
