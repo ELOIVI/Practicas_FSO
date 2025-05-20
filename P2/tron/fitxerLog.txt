@@ -1,0 +1,555 @@
+Usuari: (24,53) dir 3
+Usuari: (24,54) dir 3
+Usuari: (24,55) dir 3
+Usuari: (24,56) dir 3
+Usuari: (24,57) dir 3
+Usuari: (24,58) dir 3
+Usuari: (24,59) dir 3
+Usuari: (24,60) dir 3
+Usuari: (24,61) dir 3
+Usuari: (24,62) dir 3
+Usuari: (24,63) dir 3
+Usuari: (24,64) dir 3
+Usuari: (24,65) dir 3
+Usuari: (24,66) dir 3
+Usuari: (24,67) dir 3
+Usuari: (24,68) dir 3
+Usuari: (24,69) dir 3
+Usuari: (24,70) dir 3
+Usuari: (24,71) dir 3
+Usuari: (24,72) dir 3
+Usuari: (24,73) dir 3
+Usuari: (24,74) dir 3
+Usuari: (24,75) dir 3
+Usuari: (24,76) dir 3
+Usuari: (24,77) dir 3
+Usuari: (24,78) dir 3
+Usuari: (24,79) dir 3
+Usuari: (24,80) dir 3
+Usuari: (24,81) dir 3
+Usuari: (24,82) dir 3
+Usuari: (24,83) dir 3
+Usuari: (24,84) dir 3
+Usuari: (24,85) dir 3
+Usuari: (24,86) dir 3
+Usuari: (24,87) dir 3
+Usuari: (24,88) dir 3
+Usuari: (24,89) dir 3
+Usuari: (24,90) dir 3
+Usuari: (24,91) dir 3
+Usuari: (24,92) dir 3
+Usuari: (24,93) dir 3
+Usuari: (24,94) dir 3
+Usuari: (24,95) dir 3
+Usuari: (24,96) dir 3
+Usuari: (24,97) dir 3
+Usuari: (24,98) dir 3
+Usuari: (24,99) dir 3
+Usuari: (24,100) dir 3
+Usuari: (24,101) dir 3
+Usuari: (24,102) dir 3
+Usuari: (24,103) dir 3
+Usuari: (24,104) dir 3
+Usuari: (24,105) dir 3
+Usuari: (24,106) dir 3
+Usuari: (24,107) dir 3
+Usuari: (24,108) dir 3
+Usuari: (24,109) dir 3
+Usuari: (24,110) dir 3
+Usuari: (24,111) dir 3
+Usuari: (24,112) dir 3
+Usuari: (24,113) dir 3
+Usuari: (24,114) dir 3
+Usuari: (24,115) dir 3
+Usuari: (24,116) dir 3
+Usuari: (24,117) dir 3
+Usuari: (24,118) dir 3
+Usuari: (24,119) dir 3
+Usuari: (24,120) dir 3
+Usuari: (24,121) dir 3
+Usuari: (25,121) dir 2
+Usuari: (26,121) dir 2
+Usuari: (26,122) dir 3
+Usuari: (26,123) dir 3
+Usuari: (26,124) dir 3
+Usuari: (26,125) dir 3
+Usuari: (26,126) dir 3
+Usuari: (26,127) dir 3
+Usuari: (26,128) dir 3
+Usuari: (26,129) dir 3
+Usuari: (26,130) dir 3
+Usuari: (26,131) dir 3
+Usuari: (26,132) dir 3
+Usuari: (26,133) dir 3
+Usuari: (26,134) dir 3
+Usuari: (26,135) dir 3
+Usuari: (26,136) dir 3
+Usuari: (26,137) dir 3
+Usuari: (27,137) dir 2
+Usuari: (28,137) dir 2
+Usuari: (28,138) dir 3
+Usuari: (28,139) dir 3
+Usuari: (28,140) dir 3
+Usuari: (28,141) dir 3
+Usuari: (28,142) dir 3
+Usuari: (28,143) dir 3
+Usuari: (28,144) dir 3
+Usuari: (28,145) dir 3
+Usuari: (28,146) dir 3
+Usuari: (28,147) dir 3
+Usuari: (28,148) dir 3
+Usuari: (28,149) dir 3
+Usuari: (28,150) dir 3
+Usuari: (28,151) dir 3
+Usuari: (28,152) dir 3
+Usuari: (28,153) dir 3
+Usuari: (28,154) dir 3
+Usuari: (28,155) dir 3
+Usuari: (28,156) dir 3
+Usuari: (28,157) dir 3
+Usuari: (28,158) dir 3
+Usuari: (29,158) dir 2
+Usuari: (30,158) dir 2
+Usuari: (31,158) dir 2
+Usuari: (32,158) dir 2
+Usuari: (33,158) dir 2
+Usuari: (34,158) dir 2
+Usuari: (35,158) dir 2
+Usuari: (36,158) dir 2
+Usuari: (37,158) dir 2
+Usuari: (38,158) dir 2
+Usuari: (39,158) dir 2
+Usuari: (39,157) dir 1
+Usuari: (39,156) dir 1
+Usuari: (39,155) dir 1
+Usuari: (39,154) dir 1
+Usuari: (39,153) dir 1
+Usuari: (39,152) dir 1
+Usuari: (39,151) dir 1
+Usuari: (39,150) dir 1
+Usuari: (39,149) dir 1
+Usuari: (39,148) dir 1
+Usuari: (39,147) dir 1
+Usuari: (39,146) dir 1
+Usuari: (39,145) dir 1
+Usuari: (39,144) dir 1
+Usuari: (39,143) dir 1
+Usuari: (38,143) dir 0
+Usuari: (37,143) dir 0
+Usuari: (36,143) dir 0
+Usuari: (35,143) dir 0
+Usuari: (34,143) dir 0
+Usuari: (33,143) dir 0
+Usuari: (32,143) dir 0
+Usuari: (31,143) dir 0
+Usuari: (30,143) dir 0
+Usuari: (29,143) dir 0
+Usuari: (28,143) dir 0
+Usuari: (27,143) dir 0
+Usuari: (26,143) dir 0
+Usuari: (25,143) dir 0
+Usuari: (24,143) dir 0
+Usuari: (23,143) dir 0
+Usuari: (22,143) dir 0
+Usuari: (21,143) dir 0
+Usuari: (20,143) dir 0
+Usuari: (19,143) dir 0
+Usuari: (18,143) dir 0
+Usuari: (17,143) dir 0
+Usuari: (16,143) dir 0
+Usuari: (16,142) dir 1
+Usuari: (16,141) dir 1
+Usuari: (16,140) dir 1
+Usuari: (16,139) dir 1
+Usuari: (16,138) dir 1
+Usuari: (16,137) dir 1
+Usuari: (16,136) dir 1
+Usuari: (16,135) dir 1
+Usuari: (16,134) dir 1
+Usuari: (16,133) dir 1
+Usuari: (16,132) dir 1
+Usuari: (16,131) dir 1
+Usuari: (16,130) dir 1
+Usuari: (16,129) dir 1
+Usuari: (16,128) dir 1
+Usuari: (16,127) dir 1
+Usuari: (16,126) dir 1
+Usuari: (16,125) dir 1
+Usuari: (16,124) dir 1
+Usuari: (16,123) dir 1
+Usuari: (16,122) dir 1
+Usuari: (16,121) dir 1
+Usuari: (16,120) dir 1
+Usuari: (16,119) dir 1
+Usuari: (16,118) dir 1
+Usuari: (16,117) dir 1
+Usuari: (16,116) dir 1
+Usuari: (16,115) dir 1
+Usuari: (16,114) dir 1
+Usuari: (16,113) dir 1
+Usuari: (16,112) dir 1
+Usuari: (16,111) dir 1
+Usuari: (16,110) dir 1
+Usuari: (16,109) dir 1
+Usuari: (16,108) dir 1
+Usuari: (16,107) dir 1
+Usuari: (16,106) dir 1
+Usuari: (16,105) dir 1
+Usuari: (16,104) dir 1
+Usuari: (16,103) dir 1
+Usuari: (16,102) dir 1
+Usuari: (16,101) dir 1
+Usuari: (16,100) dir 1
+Usuari: (16,99) dir 1
+Usuari: (16,98) dir 1
+Usuari: (16,97) dir 1
+Usuari: (16,96) dir 1
+Usuari: (16,95) dir 1
+Usuari: (16,94) dir 1
+Usuari: (17,94) dir 2
+Usuari: (18,94) dir 2
+Usuari: (19,94) dir 2
+Usuari: (20,94) dir 2
+Usuari: (21,94) dir 2
+Usuari: (22,94) dir 2
+Usuari: (23,94) dir 2
+Usuari: (24,94) dir 2
+Usuari: (25,94) dir 2
+Usuari: (26,94) dir 2
+Usuari: (27,94) dir 2
+Usuari: (28,94) dir 2
+Usuari: (29,94) dir 2
+Usuari: (30,94) dir 2
+Usuari: (31,94) dir 2
+Usuari: (32,94) dir 2
+Usuari: (33,94) dir 2
+Usuari: (34,94) dir 2
+Usuari: (34,93) dir 1
+Usuari: (35,93) dir 2
+Usuari: (36,93) dir 2
+Usuari: (36,92) dir 1
+Usuari: (37,92) dir 2
+Usuari: (37,91) dir 1
+Usuari: (37,90) dir 1
+Usuari: (37,89) dir 1
+Usuari: (37,88) dir 1
+Usuari: (38,88) dir 2
+Usuari: (38,87) dir 1
+Usuari: (38,86) dir 1
+Usuari: (38,85) dir 1
+Usuari: (38,84) dir 1
+Usuari: (39,84) dir 2
+Usuari: (40,84) dir 2
+Usuari: (41,84) dir 2
+Usuari: (42,84) dir 2
+Usuari: (42,83) dir 1
+Usuari: (42,82) dir 1
+Usuari: (42,81) dir 1
+Usuari: (43,81) dir 2
+Usuari: (44,81) dir 2
+Usuari: (44,80) dir 1
+Usuari: (44,79) dir 1
+Usuari: (44,78) dir 1
+Usuari: (44,77) dir 1
+Usuari: (44,76) dir 1
+Usuari: (44,75) dir 1
+Usuari: (44,74) dir 1
+Usuari: (44,73) dir 1
+Usuari: (44,72) dir 1
+Usuari: (44,71) dir 1
+Usuari: (44,70) dir 1
+Usuari: (44,69) dir 1
+Usuari: (44,68) dir 1
+Usuari: (45,68) dir 2
+Usuari: (45,67) dir 1
+Usuari: (45,66) dir 1
+Usuari: (45,65) dir 1
+Usuari: (45,64) dir 1
+Usuari: (45,63) dir 1
+Usuari: (46,63) dir 2
+Usuari: (46,62) dir 1
+Usuari: (46,61) dir 1
+Usuari: (46,60) dir 1
+Usuari: (46,59) dir 1
+Usuari: (46,58) dir 1
+Usuari: (46,57) dir 1
+Usuari: (46,56) dir 1
+Usuari: (46,55) dir 1
+Usuari: (46,54) dir 1
+Usuari: (46,53) dir 1
+Usuari: (46,52) dir 1
+Usuari: (46,51) dir 1
+Usuari: (46,50) dir 1
+Usuari: (46,49) dir 1
+Usuari: (46,48) dir 1
+Usuari: (46,47) dir 1
+Usuari: (46,46) dir 1
+Usuari: (46,45) dir 1
+Usuari: (46,44) dir 1
+Usuari: (46,43) dir 1
+Usuari: (46,42) dir 1
+Usuari: (46,41) dir 1
+Usuari: (46,40) dir 1
+Usuari: (46,39) dir 1
+Usuari: (46,38) dir 1
+Usuari: (46,37) dir 1
+Usuari: (46,36) dir 1
+Usuari: (46,35) dir 1
+Usuari: (46,34) dir 1
+Usuari: (46,33) dir 1
+Usuari: (45,33) dir 0
+Usuari: (45,32) dir 1
+Usuari: (45,31) dir 1
+Usuari: (45,30) dir 1
+Usuari: (45,29) dir 1
+Usuari: (45,28) dir 1
+Usuari: (45,27) dir 1
+Usuari: (45,26) dir 1
+Usuari: (44,26) dir 0
+Usuari: (43,26) dir 0
+Usuari: (42,26) dir 0
+Usuari: (41,26) dir 0
+Usuari: (40,26) dir 0
+Usuari: (39,26) dir 0
+Usuari: (38,26) dir 0
+Usuari: (37,26) dir 0
+Usuari: (36,26) dir 0
+Usuari: (35,26) dir 0
+Usuari: (34,26) dir 0
+Usuari: (33,26) dir 0
+Usuari: (32,26) dir 0
+Usuari: (31,26) dir 0
+Usuari: (30,26) dir 0
+Usuari: (29,26) dir 0
+Usuari: (28,26) dir 0
+Usuari: (27,26) dir 0
+Usuari: (26,26) dir 0
+Usuari: (25,26) dir 0
+Usuari: (24,26) dir 0
+Usuari: (23,26) dir 0
+Usuari: (22,26) dir 0
+Usuari: (21,26) dir 0
+Usuari: (20,26) dir 0
+Usuari: (19,26) dir 0
+Usuari: (18,26) dir 0
+Usuari: (17,26) dir 0
+Usuari: (16,26) dir 0
+Usuari: (15,26) dir 0
+Usuari: (14,26) dir 0
+Usuari: (13,26) dir 0
+Usuari: (12,26) dir 0
+Usuari: (11,26) dir 0
+Usuari: (10,26) dir 0
+Usuari: (9,26) dir 0
+Usuari: (9,27) dir 3
+Usuari: (9,28) dir 3
+Usuari: (9,29) dir 3
+Usuari: (9,30) dir 3
+Usuari: (9,31) dir 3
+Usuari: (9,32) dir 3
+Usuari: (9,33) dir 3
+Usuari: (9,34) dir 3
+Usuari: (9,35) dir 3
+Usuari: (9,36) dir 3
+Usuari: (9,37) dir 3
+Usuari: (9,38) dir 3
+Usuari: (9,39) dir 3
+Usuari: (9,40) dir 3
+Usuari: (9,41) dir 3
+Usuari: (9,42) dir 3
+Usuari: (9,43) dir 3
+Usuari: (9,44) dir 3
+Usuari: (9,45) dir 3
+Usuari: (9,46) dir 3
+Usuari: (9,47) dir 3
+Usuari: (9,48) dir 3
+Usuari: (9,49) dir 3
+Usuari: (9,50) dir 3
+Usuari: (9,51) dir 3
+Usuari: (9,52) dir 3
+Usuari: (9,53) dir 3
+Usuari: (9,54) dir 3
+Usuari: (9,55) dir 3
+Usuari: (9,56) dir 3
+Usuari: (9,57) dir 3
+Usuari: (9,58) dir 3
+Usuari: (9,59) dir 3
+Usuari: (9,60) dir 3
+Usuari: (9,61) dir 3
+Usuari: (9,62) dir 3
+Usuari: (9,63) dir 3
+Usuari: (9,64) dir 3
+Usuari: (9,65) dir 3
+Usuari: (9,66) dir 3
+Usuari: (9,67) dir 3
+Usuari: (9,68) dir 3
+Usuari: (9,69) dir 3
+Usuari: (9,70) dir 3
+Usuari: (9,71) dir 3
+Usuari: (9,72) dir 3
+Usuari: (9,73) dir 3
+Usuari: (9,74) dir 3
+Usuari: (9,75) dir 3
+Usuari: (9,76) dir 3
+Usuari: (9,77) dir 3
+Usuari: (9,78) dir 3
+Usuari: (9,79) dir 3
+
+Oponent 0: (1,82) dir 1
+Oponent 0: (1,81) dir 1
+Oponent 0: (1,80) dir 1
+Oponent 0: (1,79) dir 1
+Oponent 0: (1,78) dir 1
+Oponent 0: (1,77) dir 1
+Oponent 0: (1,76) dir 1
+Oponent 0: (1,75) dir 1
+Oponent 0: (1,74) dir 1
+Oponent 0: (1,73) dir 1
+Oponent 0: (1,72) dir 1
+Oponent 0: (1,71) dir 1
+Oponent 0: (1,70) dir 1
+Oponent 0: (1,69) dir 1
+Oponent 0: (1,68) dir 1
+Oponent 0: (1,67) dir 1
+Oponent 0: (1,66) dir 1
+Oponent 0: (1,65) dir 1
+Oponent 0: (1,64) dir 1
+Oponent 0: (1,63) dir 1
+Oponent 0: (1,62) dir 1
+Oponent 0: (1,61) dir 1
+Oponent 0: (1,60) dir 1
+Oponent 0: (1,59) dir 1
+Oponent 0: (1,58) dir 1
+Oponent 0: (1,57) dir 1
+Oponent 0: (1,56) dir 1
+Oponent 0: (1,55) dir 1
+Oponent 0: (1,54) dir 1
+Oponent 0: (1,53) dir 1
+Oponent 0: (1,52) dir 1
+Oponent 0: (1,51) dir 1
+Oponent 0: (1,50) dir 1
+Oponent 0: (1,49) dir 1
+Oponent 0: (1,48) dir 1
+Oponent 0: (1,47) dir 1
+Oponent 0: (1,46) dir 1
+Oponent 0: (1,45) dir 1
+Oponent 0: (1,44) dir 1
+Oponent 0: (1,43) dir 1
+Oponent 0: (1,42) dir 1
+Oponent 0: (1,41) dir 1
+Oponent 0: (1,40) dir 1
+Oponent 0: (1,39) dir 1
+Oponent 0: (1,38) dir 1
+Oponent 0: (1,37) dir 1
+Oponent 0: (1,36) dir 1
+Oponent 0: (1,35) dir 1
+Oponent 0: (1,34) dir 1
+Oponent 0: (1,33) dir 1
+Oponent 0: (1,32) dir 1
+Oponent 0: (1,31) dir 1
+Oponent 0: (1,30) dir 1
+Oponent 0: (1,29) dir 1
+Oponent 0: (1,28) dir 1
+Oponent 0: (1,27) dir 1
+Oponent 0: (1,26) dir 1
+Oponent 0: (1,25) dir 1
+Oponent 0: (1,24) dir 1
+Oponent 0: (1,23) dir 1
+Oponent 0: (1,22) dir 1
+Oponent 0: (1,21) dir 1
+Oponent 0: (1,20) dir 1
+Oponent 0: (1,19) dir 1
+Oponent 0: (1,18) dir 1
+Oponent 0: (1,17) dir 1
+Oponent 0: (1,16) dir 1
+Oponent 0: (1,15) dir 1
+Oponent 0: (1,14) dir 1
+Oponent 0: (1,13) dir 1
+Oponent 0: (1,12) dir 1
+Oponent 0: (1,11) dir 1
+Oponent 0: (1,10) dir 1
+Oponent 0: (1,9) dir 1
+Oponent 0: (1,8) dir 1
+Oponent 0: (1,7) dir 1
+Oponent 0: (1,6) dir 1
+Oponent 0: (1,5) dir 1
+Oponent 0: (1,4) dir 1
+Oponent 0: (1,3) dir 1
+Oponent 0: (1,2) dir 1
+Oponent 0: (1,1) dir 1
+Oponent 0: (2,1) dir 2
+Oponent 0: (3,1) dir 2
+Oponent 0: (4,1) dir 2
+Oponent 0: (5,1) dir 2
+Oponent 0: (6,1) dir 2
+Oponent 0: (7,1) dir 2
+Oponent 0: (8,1) dir 2
+Oponent 0: (9,1) dir 2
+Oponent 0: (10,1) dir 2
+Oponent 0: (11,1) dir 2
+Oponent 0: (12,1) dir 2
+Oponent 0: (13,1) dir 2
+Oponent 0: (14,1) dir 2
+Oponent 0: (15,1) dir 2
+Oponent 0: (16,1) dir 2
+Oponent 0: (17,1) dir 2
+Oponent 0: (18,1) dir 2
+Oponent 0: (19,1) dir 2
+Oponent 0: (20,1) dir 2
+Oponent 0: (21,1) dir 2
+Oponent 0: (22,1) dir 2
+Oponent 0: (23,1) dir 2
+Oponent 0: (24,1) dir 2
+Oponent 0: (25,1) dir 2
+Oponent 0: (26,1) dir 2
+Oponent 0: (27,1) dir 2
+Oponent 0: (28,1) dir 2
+Oponent 0: (29,1) dir 2
+Oponent 0: (30,1) dir 2
+Oponent 0: (31,1) dir 2
+Oponent 0: (32,1) dir 2
+Oponent 0: (33,1) dir 2
+Oponent 0: (34,1) dir 2
+Oponent 0: (35,1) dir 2
+Oponent 0: (36,1) dir 2
+Oponent 0: (37,1) dir 2
+Oponent 0: (38,1) dir 2
+Oponent 0: (39,1) dir 2
+Oponent 0: (40,1) dir 2
+Oponent 0: (41,1) dir 2
+Oponent 0: (42,1) dir 2
+Oponent 0: (43,1) dir 2
+Oponent 0: (44,1) dir 2
+Oponent 0: (45,1) dir 2
+Oponent 0: (46,1) dir 2
+Oponent 0: (46,2) dir 3
+Oponent 0: (46,3) dir 3
+Oponent 0: (46,4) dir 3
+Oponent 0: (46,5) dir 3
+Oponent 0: (46,6) dir 3
+Oponent 0: (46,7) dir 3
+Oponent 0: (46,8) dir 3
+Oponent 0: (46,9) dir 3
+Oponent 0: (46,10) dir 3
+Oponent 0: (46,11) dir 3
+Oponent 0: (46,12) dir 3
+Oponent 0: (46,13) dir 3
+Oponent 0: (46,14) dir 3
+Oponent 0: (46,15) dir 3
+Oponent 0: (46,16) dir 3
+Oponent 0: (46,17) dir 3
+Oponent 0: (46,18) dir 3
+Oponent 0: (46,19) dir 3
+Oponent 0: (46,20) dir 3
+Oponent 0: (46,21) dir 3
+Oponent 0: (46,22) dir 3
+Oponent 0: (46,23) dir 3
+Oponent 0: (46,24) dir 3
+Oponent 0: (46,25) dir 3
+Oponent 0: (46,26) dir 3
+Oponent 0: (46,27) dir 3
+Oponent 0: (46,28) dir 3
+Oponent 0: (46,29) dir 3
+Oponent 0: (46,30) dir 3
+Oponent 0: (46,31) dir 3
+Oponent 0: (46,32) dir 3
